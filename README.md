@@ -8,10 +8,11 @@
 ```yarn
     yarn add material-ui
 ```
-
+```
   <MuiThemeProvider>
     <App />
   </MuiThemeProvider>
+```
 
 # Part-2
 
